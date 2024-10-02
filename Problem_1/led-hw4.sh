@@ -16,7 +16,7 @@
 # Arg 2: N
 #
 # New Example Invocation:
-# ./led-hw5.sh blink 10
+# ./led-hw4.sh blink 10
 #############################
 
 LED3_PATH=/sys/class/leds/beaglebone:green:usr3
